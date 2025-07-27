@@ -1,0 +1,15 @@
+.vscode/
+Debug/
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.log
+*.launch
+*.swp
+*.swo
+*.swd
+
